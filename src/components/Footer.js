@@ -59,7 +59,7 @@ function Footer() {
               <i className="far fa-compass"></i>
             </Link>
           </div>
-          <small className="website-rights">TRVL © 2020</small>
+          <small className="website-rights">iWANDER by Janelle Tamayo © 2020</small>
           <div className="social-icons">
             <Link className="social-icon-link facebook" to="/" target="_blank" aria-label="Facebook">
               <i className="fab fa-facebook-f" />
